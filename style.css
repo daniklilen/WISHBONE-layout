@@ -236,7 +236,7 @@ body {
     display: block;
 }
 .reeding-house-container {
-    background-image: url('reedinghouse.jpg');
+    background-image: url('images/reedinghouse.jpg');
     width: 1440px;
     height: 600px;
     margin-top: 100px;
@@ -334,7 +334,7 @@ body {
     margin-top: 10px;
 }
 .staircase-container {
-    background-image: url(the-marble-staircase.png);
+    background-image: url(images/the-marble-staircase.png);
     width: 1440px;
     height: 600px;
     margin-top: 100px;
@@ -400,7 +400,7 @@ body {
     object-fit: containl
 }
 .the-swirling-staircase {
-    background-image: url(the-swirling-staircase.png);
+    background-image: url(images/the-swirling-staircase.png);
     width: 1440px;
     height: 600px;
 }
@@ -485,7 +485,7 @@ body {
     gap: 15.5px;
 }
 .project-2 {
-    background-image: url(projects2.png);
+    background-image: url(images/projects2.png);
     width: 375px;
     height: 456px;
 }
