@@ -397,7 +397,7 @@ body {
 .PR-image-container img {
     max-width: 100%;
     max-height: 100%;
-    object-fit: containl
+    object-fit: contain;
 }
 .the-swirling-staircase {
     background-image: url('images/the-swirling-staircase.png');
